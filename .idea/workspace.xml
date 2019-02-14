@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44f3a326-27b0-4686-b764-5470269daeb5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$util.coverage" NAME="util Coverage Results" MODIFIED="1549969684155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$wangyi2.coverage" NAME="wangyi2 Coverage Results" MODIFIED="1547719734938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture__1_.coverage" NAME="picture (1) Coverage Results" MODIFIED="1547544531232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$017.coverage" NAME="017 Coverage Results" MODIFIED="1548243473126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture2__1_.coverage" NAME="picture2 (1) Coverage Results" MODIFIED="1547546060592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$js_2.coverage" NAME="js_2 Coverage Results" MODIFIED="1547717830598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1548210852859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$016.coverage" NAME="016 Coverage Results" MODIFIED="1548224045382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture.coverage" NAME="picture Coverage Results" MODIFIED="1547535421271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/kuzhan/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_req.coverage" NAME="get_req Coverage Results" MODIFIED="1547700378872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$control.coverage" NAME="control Coverage Results" MODIFIED="1547977526599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jd.coverage" NAME="jd Coverage Results" MODIFIED="1547627442902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$howtorequest.coverage" NAME="howtorequest Coverage Results" MODIFIED="1547793614934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/requests" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$014.coverage" NAME="014 Coverage Results" MODIFIED="1547953731887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$011.coverage" NAME="011 Coverage Results" MODIFIED="1547606384058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$wangyiyun.coverage" NAME="wangyiyun Coverage Results" MODIFIED="1548732793007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$set_ssl.coverage" NAME="set_ssl Coverage Results" MODIFIED="1547708047785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$set_cookies.coverage" NAME="set_cookies Coverage Results" MODIFIED="1547702819290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$012.coverage" NAME="012 Coverage Results" MODIFIED="1547609955376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$125.coverage" NAME="125 Coverage Results" MODIFIED="1547889560480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1548658013869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/selenium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1547565070336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1548289914891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1550060026706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/re" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_request.coverage" NAME="get_request Coverage Results" MODIFIED="1547791043718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/requests" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$set_cookies2.coverage" NAME="set_cookies2 Coverage Results" MODIFIED="1547703881284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture2.coverage" NAME="picture2 Coverage Results" MODIFIED="1547531353989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/kuzhan/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$013.coverage" NAME="013 Coverage Results" MODIFIED="1547887171314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fly.coverage" NAME="fly Coverage Results" MODIFIED="1547632469694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$013__1_.coverage" NAME="013 (1) Coverage Results" MODIFIED="1547888449324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1550057110121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$js_1.coverage" NAME="js_1 Coverage Results" MODIFIED="1547712759633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$015.coverage" NAME="015 Coverage Results" MODIFIED="1547989545936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Node.coverage" NAME="Node Coverage Results" MODIFIED="1548169169307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/算法导论/数据结构" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$post_req.coverage" NAME="post_req Coverage Results" MODIFIED="1547700810939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_ajax.coverage" NAME="get_ajax Coverage Results" MODIFIED="1547738364784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="67" />
+              <folding>
+                <element signature="e#101#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="51" />
+              <folding>
+                <element signature="e#101#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/re/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="e#101#110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="219" lean-forward="true" selection-start-line="219" selection-end-line="219" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>card-img</find>
+      <find>work-show-box</find>
+      <find>data-res-action=&quot;play&quot;</find>
+      <find>data-res-id=</find>
+      <find>song-list-pre-cache</find>
+      <find>sign:</find>
+      <find>define(&quot;newweb/common/service&quot;</find>
+      <find>require</find>
+      <find>newweb/common/service</find>
+      <find>newweb/common</find>
+      <find>var r =</find>
+      <find>service&quot;</find>
+      <find>林俊杰 - JJ Lin</find>
+      <find>无hash</find>
+      <find>`</find>
+      <find>dict</find>
+      <find>04858aaa1240e40354b6ea49e4bcbfb2.css</find>
+      <find>svgtextcss/</find>
+      <find>&lt;e class=&quot;</find>
+      <find>&quot;yxx&quot;</find>
+      <find>s3plus.meituan.net</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/pipelines.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/lianxi.py" />
+        <option value="$PROJECT_DIR$/suanfa/力扣/011.py" />
+        <option value="$PROJECT_DIR$/suanfa/力扣/012.py" />
+        <option value="$PROJECT_DIR$/suanfa/力扣/013.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/settings.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders/fly.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/settings.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders/wy.txt" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders/jd.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_cookie.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/get_req.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/post_req.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_cookies.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_cookies2.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_ssl.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/js加密/js_2.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/js加密/js_1.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi2.html" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wangyi2.py" />
+        <option value="$PROJECT_DIR$/suanfa/爬虫/js加密/get_ajax.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/requests/set_get.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/requests/get_request.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/requests/howtorequest.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/urllib.request/set_cookies.py" />
+        <option value="$PROJECT_DIR$/学习/力扣/013.py" />
+        <option value="$PROJECT_DIR$/学习/力扣/125.html" />
+        <option value="$PROJECT_DIR$/学习/力扣/125.py" />
+        <option value="$PROJECT_DIR$/学习/力扣/014.py" />
+        <option value="$PROJECT_DIR$/学习/力扣/015.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/selenium/control.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/settings.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/middlewares.py" />
+        <option value="$PROJECT_DIR$/学习/算法导论/数据结构/Node.py" />
+        <option value="$PROJECT_DIR$/学习/力扣/016.py" />
+        <option value="$PROJECT_DIR$/学习/力扣/017.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders/selenium.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/middlewares.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/settings.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/api.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/selenium/test.js" />
+        <option value="$PROJECT_DIR$/学习/爬虫/selenium/test.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/selenium/wangyiyun.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/css.txt" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/tag.txt" />
+        <option value="$PROJECT_DIR$/学习/爬虫/re/re.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/re/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="254" />
+    <option name="y" value="55" />
+    <option name="width" value="1564" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
+              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="学习" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
+              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\学习\爬虫\scrapyProject\scrapySelenium\scrapySelenium\LOGGING" />
+      <recent name="C:\Users\Administrator\PycharmProjects\学习\爬虫\scrapyProject\scrapySelenium\scrapySelenium" />
+      <recent name="C:\Users\Administrator\PycharmProjects\学习\爬虫\scrapyProject\scrapySelenium\scrapySelenium\spiders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\suanfa\爬虫\scrapyProject\酷站\kuzhan\spiders" />
+      <recent name="C:\Users\Administrator\PycharmProjects\suanfa\爬虫\scrapyProject\kuzhan\kuzhan\spiders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test (2)">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/re/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/selenium/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wangyiyun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/selenium/wangyiyun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test (2)" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.util" />
+        <item itemvalue="Python.wangyiyun" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44f3a326-27b0-4686-b764-5470269daeb5" name="Default Changelist" comment="" />
+      <created>1547519615000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547519615000</updated>
+      <workItem from="1547519616514" duration="16271000" />
+      <workItem from="1547536814650" duration="11517000" />
+      <workItem from="1547554407164" duration="7433000" />
+      <workItem from="1547604751497" duration="29232000" />
+      <workItem from="1547656779339" duration="3110000" />
+      <workItem from="1547693183269" duration="21377000" />
+      <workItem from="1547736274418" duration="2119000" />
+      <workItem from="1547779276095" duration="9319000" />
+      <workItem from="1547886598685" duration="3654000" />
+      <workItem from="1547948996176" duration="6589000" />
+      <workItem from="1547972332765" duration="11249000" />
+      <workItem from="1548035194488" duration="12426000" />
+      <workItem from="1548120115512" duration="23132000" />
+      <workItem from="1548209305903" duration="17945000" />
+      <workItem from="1548288873032" duration="3277000" />
+      <workItem from="1548570773569" duration="12658000" />
+      <workItem from="1548638053246" duration="1394000" />
+      <workItem from="1548670447217" duration="598000" />
+      <workItem from="1548725480628" duration="8855000" />
+      <workItem from="1549959668373" duration="10714000" />
+      <workItem from="1550027073160" duration="28976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241845000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18710022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33586133" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904422" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855436" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.248104" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3297491" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3672806" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904422" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2611051" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/0.png" />
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/1.png" />
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/common/action_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/common/alert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/力扣/015.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/js加密/get_ajax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/stack_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="30" selection-start-line="5" selection-start-column="3" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/Node.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/LOGGING/5688_log_1548211269.333175.txt" />
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/LOGGING/5688_log_1548210950.4970953.txt" />
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/LOGGING/5688_log_1548211888.1824353.txt" />
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/baidu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/search.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1099968596/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/力扣/016.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/力扣/017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/网易云.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/api.py" />
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="125" column="39" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1099968596/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-215">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/wangyiyun.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders/selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/tag.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="487" column="8" selection-start-line="487" selection-start-column="8" selection-end-line="487" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="219" lean-forward="true" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wangyi2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/song.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding>
+            <element signature="e#101#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="e#146#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/wangyiyun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding>
+            <element signature="e#102#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1099968596/lxml/etree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/parsel/selector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/css.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6012">
+          <caret column="25464" selection-start-column="25459" selection-end-column="25464" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret column="3141" selection-start-column="3123" selection-end-column="3141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="67" />
+          <folding>
+            <element signature="e#101#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="51" />
+          <folding>
+            <element signature="e#101#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/re/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#101#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

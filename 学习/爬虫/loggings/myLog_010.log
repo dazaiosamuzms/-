@@ -1,0 +1,28 @@
+2019-01-09 15:58:04,900 ERROR    Administrator error       
+2019-01-09 15:58:04,900 CRITICAL Administrator critical    
+2019-01-09 15:59:24,768 ERROR    Administrator error       
+2019-01-09 15:59:24,768 CRITICAL Administrator critical    
+2019-01-09 16:00:14,687 ERROR    Administrator error       
+2019-01-09 16:00:14,687 CRITICAL Administrator critical    
+2019-01-09 16:23:19,754 ERROR    Administrator error       
+2019-01-09 16:23:19,754 CRITICAL Administrator critical    
+2019-01-09 16:23:24,790 ERROR    Administrator error       
+2019-01-09 16:23:24,791 CRITICAL Administrator critical    
+2019-01-09 16:23:33,310 ERROR    Administrator error       
+2019-01-09 16:23:33,310 CRITICAL Administrator critical    
+2019-01-09 16:23:37,013 ERROR    Administrator error       
+2019-01-09 16:23:37,013 CRITICAL Administrator critical    
+2019-01-09 16:23:44,386 ERROR    Administrator error       
+2019-01-09 16:23:44,386 CRITICAL Administrator critical    
+%(levelname)-8s Administrator error       
+%(levelname)-8s Administrator critical    
+2019-01-09 16:24:36,758 ERROR  Administrator error       
+2019-01-09 16:24:36,758 CRITICAL Administrator critical    
+2019-01-09 16:24:48,274 ERROR              Administrator error       
+2019-01-09 16:24:48,274 CRITICAL           Administrator critical    
+2019-01-09 16:25:07,516 ERROR    Administrator error       
+2019-01-09 16:25:07,517 CRITICAL Administrator critical    
+2019-01-09 16:26:36,299    ERROR Administrator error       
+2019-01-09 16:26:36,299 CRITICAL Administrator critical    
+2019-01-09 16:26:41,046 ERROR    Administrator error       
+2019-01-09 16:26:41,047 CRITICAL Administrator critical    

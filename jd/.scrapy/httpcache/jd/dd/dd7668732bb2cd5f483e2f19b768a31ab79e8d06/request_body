@@ -1,0 +1,12 @@
+{
+    "cookies": [],
+    "headers": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en",
+        "User-Agent": "Scrapy/1.5.1 (+https://scrapy.org)"
+    },
+    "lua_source": "\n         function main(splash, args)\n             assert(splash:go(args.url))\n             assert(splash:wait(args.wait))\n             js = string.format(\"document.querySelector('#kw').value=%s;document.querySelector('#su').click()\", args.phone)\n             splash:evaljs(js)\n             assert(splash:wait(args.wait))\n             return splash:html()\n         end\n         ",
+    "phone": "159*******",
+    "url": "http://lab.scrapyd.cn/",
+    "wait": 5
+}
