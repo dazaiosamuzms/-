@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44f3a326-27b0-4686-b764-5470269daeb5" name="Default Changelist" comment="" />
+    <list default="true" id="44f3a326-27b0-4686-b764-5470269daeb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/git/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/re/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/001_tesseract_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/002_test_flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/003_test_tornado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/004_urllib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/005_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/006_XPath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/007_BeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/008_pyquery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/009_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/010_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/011_databaseSave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/1/text2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/2/001_maoyan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习/爬虫/崔庆才/2/002_zhihu_hot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/git/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/0000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/0002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/0100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/0101.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/2048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/source/2(min).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/source/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/source/Microsoft-YaHei-Heavy.ttc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/source/result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/实验楼/source/sale_code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git/学习/爬虫/re/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/git/学习/爬虫/re/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习/爬虫/re/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习/爬虫/re/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习/爬虫/scrapyProject/test1/test1/spiders/Article.py" beforeDir="false" afterPath="$PROJECT_DIR$/学习/爬虫/scrapyProject/test1/test1/spiders/Article.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,95 +45,124 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PycharmProjects$002_test_flask.coverage" NAME="002_test_flask Coverage Results" MODIFIED="1550296664589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$008_.coverage" NAME="008_可重入锁 Coverage Results" MODIFIED="1550138280503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
     <SUITE FILE_PATH="coverage/PycharmProjects$util.coverage" NAME="util Coverage Results" MODIFIED="1549969684155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$wangyi2.coverage" NAME="wangyi2 Coverage Results" MODIFIED="1547719734938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$picture__1_.coverage" NAME="picture (1) Coverage Results" MODIFIED="1547544531232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$017.coverage" NAME="017 Coverage Results" MODIFIED="1548243473126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$picture2__1_.coverage" NAME="picture2 (1) Coverage Results" MODIFIED="1547546060592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$js_2.coverage" NAME="js_2 Coverage Results" MODIFIED="1547717830598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1548210852859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$016.coverage" NAME="016 Coverage Results" MODIFIED="1548224045382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
     <SUITE FILE_PATH="coverage/PycharmProjects$picture.coverage" NAME="picture Coverage Results" MODIFIED="1547535421271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/kuzhan/kuzhan/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$get_req.coverage" NAME="get_req Coverage Results" MODIFIED="1547700378872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
     <SUITE FILE_PATH="coverage/PycharmProjects$control.coverage" NAME="control Coverage Results" MODIFIED="1547977526599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/selenium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$jd.coverage" NAME="jd Coverage Results" MODIFIED="1547627442902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$howtorequest.coverage" NAME="howtorequest Coverage Results" MODIFIED="1547793614934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/requests" />
     <SUITE FILE_PATH="coverage/PycharmProjects$014.coverage" NAME="014 Coverage Results" MODIFIED="1547953731887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
     <SUITE FILE_PATH="coverage/PycharmProjects$011.coverage" NAME="011 Coverage Results" MODIFIED="1547606384058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$003__threading.coverage" NAME="003__threading Coverage Results" MODIFIED="1550128729602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$010_csv.coverage" NAME="010_csv Coverage Results" MODIFIED="1550388066084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$009_json.coverage" NAME="009_json Coverage Results" MODIFIED="1550380631857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1547565070336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1548289914891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1550060026706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/re" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_request.coverage" NAME="get_request Coverage Results" MODIFIED="1547791043718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/requests" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$005_.coverage" NAME="005_线程共享冲突 Coverage Results" MODIFIED="1550131573676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$008_pyquery.coverage" NAME="008_pyquery Coverage Results" MODIFIED="1550377449365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$set_cookies2.coverage" NAME="set_cookies2 Coverage Results" MODIFIED="1547703881284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture2.coverage" NAME="picture2 Coverage Results" MODIFIED="1547531353989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/kuzhan/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$004_urllib.coverage" NAME="004_urllib Coverage Results" MODIFIED="1550307397783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$002_zhihu_hot.coverage" NAME="002_zhihu_hot Coverage Results" MODIFIED="1550378854229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/2" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$fly.coverage" NAME="fly Coverage Results" MODIFIED="1547632469694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$013__1_.coverage" NAME="013 (1) Coverage Results" MODIFIED="1547888449324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$015.coverage" NAME="015 Coverage Results" MODIFIED="1547989545936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Node.coverage" NAME="Node Coverage Results" MODIFIED="1548169169307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/算法导论/数据结构" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$goods.coverage" NAME="goods Coverage Results" MODIFIED="1550151753756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$get_ajax.coverage" NAME="get_ajax Coverage Results" MODIFIED="1547738364784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$002_threading.coverage" NAME="002_threading Coverage Results" MODIFIED="1550137259688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$007_BeautifulSoup.coverage" NAME="007_BeautifulSoup Coverage Results" MODIFIED="1550370199973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$wangyi2.coverage" NAME="wangyi2 Coverage Results" MODIFIED="1547719734938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture__1_.coverage" NAME="picture (1) Coverage Results" MODIFIED="1547544531232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$picture2__1_.coverage" NAME="picture2 (1) Coverage Results" MODIFIED="1547546060592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1548210852859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$016.coverage" NAME="016 Coverage Results" MODIFIED="1548224045382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$jd.coverage" NAME="jd Coverage Results" MODIFIED="1547627442902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$wangyiyun.coverage" NAME="wangyiyun Coverage Results" MODIFIED="1548732793007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/selenium" />
     <SUITE FILE_PATH="coverage/PycharmProjects$set_ssl.coverage" NAME="set_ssl Coverage Results" MODIFIED="1547708047785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
     <SUITE FILE_PATH="coverage/PycharmProjects$set_cookies.coverage" NAME="set_cookies Coverage Results" MODIFIED="1547702819290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
     <SUITE FILE_PATH="coverage/PycharmProjects$012.coverage" NAME="012 Coverage Results" MODIFIED="1547609955376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/力扣" />
     <SUITE FILE_PATH="coverage/PycharmProjects$125.coverage" NAME="125 Coverage Results" MODIFIED="1547889560480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1548658013869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/selenium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1547565070336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1548289914891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1550060026706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/re" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$get_request.coverage" NAME="get_request Coverage Results" MODIFIED="1547791043718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/requests" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$set_cookies2.coverage" NAME="set_cookies2 Coverage Results" MODIFIED="1547703881284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$picture2.coverage" NAME="picture2 Coverage Results" MODIFIED="1547531353989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/kuzhan/kuzhan/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$009_.coverage" NAME="009_线程替代方案 Coverage Results" MODIFIED="1550144860908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$001_thread.coverage" NAME="001_thread Coverage Results" MODIFIED="1550125842299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$006_XPath.coverage" NAME="006_XPath Coverage Results" MODIFIED="1550326467787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
     <SUITE FILE_PATH="coverage/PycharmProjects$013.coverage" NAME="013 Coverage Results" MODIFIED="1547887171314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$fly.coverage" NAME="fly Coverage Results" MODIFIED="1547632469694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$013__1_.coverage" NAME="013 (1) Coverage Results" MODIFIED="1547888449324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="死锁问题 Coverage Results" MODIFIED="1550135800774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$003_test_tornado.coverage" NAME="003_test_tornado Coverage Results" MODIFIED="1550297194285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
     <SUITE FILE_PATH="coverage/PycharmProjects$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1550057110121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$004__threading.coverage" NAME="004__threading Coverage Results" MODIFIED="1550129471738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$006_.coverage" NAME="006_线程安全问题 Coverage Results" MODIFIED="1550133481354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$011_databaseSave.coverage" NAME="011_databaseSave Coverage Results" MODIFIED="1550398362840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
     <SUITE FILE_PATH="coverage/PycharmProjects$js_1.coverage" NAME="js_1 Coverage Results" MODIFIED="1547712759633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$015.coverage" NAME="015 Coverage Results" MODIFIED="1547989545936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/力扣" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$Node.coverage" NAME="Node Coverage Results" MODIFIED="1548169169307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/算法导论/数据结构" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$001.coverage" NAME="001 Coverage Results" MODIFIED="1550125117580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/多线程" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$maoyan.coverage" NAME="maoyan Coverage Results" MODIFIED="1550322089238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/2" />
     <SUITE FILE_PATH="coverage/PycharmProjects$post_req.coverage" NAME="post_req Coverage Results" MODIFIED="1547700810939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/urllib.request" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$get_ajax.coverage" NAME="get_ajax Coverage Results" MODIFIED="1547738364784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suanfa/爬虫/js加密" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$005_requests.coverage" NAME="005_requests Coverage Results" MODIFIED="1550316292970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PycharmProjects" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.py">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/007_BeautifulSoup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            <state relative-caret-position="414">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/008_pyquery.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="67" />
+            <state relative-caret-position="630">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/2/002_zhihu_hot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="e#101#110#0" expanded="true" />
+                <element signature="e#135#150#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/009_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="51" />
-              <folding>
-                <element signature="e#101#116#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="630">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/010_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/学习/爬虫/re/test.py">
+        <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/011_databaseSave.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-              <folding>
-                <element signature="e#101#110#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/re.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="219" lean-forward="true" selection-start-line="219" selection-end-line="219" />
+            <state relative-caret-position="501">
+              <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -107,8 +172,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -141,48 +206,13 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/学习/爬虫" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/酷站/kuzhan/pipelines.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/lianxi.py" />
-        <option value="$PROJECT_DIR$/suanfa/力扣/011.py" />
-        <option value="$PROJECT_DIR$/suanfa/力扣/012.py" />
-        <option value="$PROJECT_DIR$/suanfa/力扣/013.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/settings.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders/fly.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/settings.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders/wy.txt" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapy-splash/jsspider/jsspider/spiders/jd.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_cookie.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/get_req.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/post_req.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_cookies.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_cookies2.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/urllib.request/set_ssl.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/js加密/js_2.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/js加密/js_1.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi2.html" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wangyi2.py" />
-        <option value="$PROJECT_DIR$/suanfa/爬虫/js加密/get_ajax.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/requests/set_get.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/requests/get_request.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/requests/howtorequest.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/urllib.request/set_cookies.py" />
-        <option value="$PROJECT_DIR$/学习/力扣/013.py" />
-        <option value="$PROJECT_DIR$/学习/力扣/125.html" />
-        <option value="$PROJECT_DIR$/学习/力扣/125.py" />
-        <option value="$PROJECT_DIR$/学习/力扣/014.py" />
-        <option value="$PROJECT_DIR$/学习/力扣/015.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/selenium/control.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/settings.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/middlewares.py" />
-        <option value="$PROJECT_DIR$/学习/算法导论/数据结构/Node.py" />
-        <option value="$PROJECT_DIR$/学习/力扣/016.py" />
-        <option value="$PROJECT_DIR$/学习/力扣/017.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders/selenium.py" />
-        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/middlewares.py" />
         <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/settings.py" />
         <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/api.py" />
         <option value="$PROJECT_DIR$/学习/爬虫/selenium/test.js" />
@@ -195,14 +225,56 @@
         <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py" />
         <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py" />
         <option value="$PROJECT_DIR$/学习/爬虫/re/test.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/001.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/001_thread.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/003__threading.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/004——threading.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/004__threading.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/005_线程冲突.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/005_线程共享冲突.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/006_线程安全问题.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/死锁问题.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/002_threading.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/008_可重入锁.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/线程替代方案.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/009_线程替代方案.py" />
+        <option value="$PROJECT_DIR$/学习/多线程/010_进程间的通讯.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/test1/test1/spiders/Article.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/settings.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/spiders/goods.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/items.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/pipelines.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/settings.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/spiders/wuhaoMoiveSpider.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/001_tesseract_test.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/002_test_flask.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/003_test_tornado.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/cookies.txt" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/004_urllib.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/005_requests.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/2/maoyan.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/006_XPath.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/text.html" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/007_BeautifulSoup.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/text2.html" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/008_pyquery.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/2/zhihu_explore.txt" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/2/002_zhihu_hot.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/data.json" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/009_json.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/010_csv.py" />
+        <option value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/011_databaseSave.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="254" />
-    <option name="y" value="55" />
-    <option name="width" value="1564" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="98" />
+    <option name="y" value="63" />
+    <option name="width" value="1379" />
     <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -232,34 +304,15 @@
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
               <item name="学习" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="崔庆才" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
               <item name="学习" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
-              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="学习" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
-              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
-              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="学习" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="scrapyProject" type="462c0819:PsiDirectoryNode" />
-              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
-              <item name="dazhong" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="崔庆才" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,21 +323,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\suanfa\爬虫\scrapyProject\酷站\kuzhan\spiders" />
+      <recent name="C:\Users\Administrator\PycharmProjects\suanfa\爬虫\scrapyProject\kuzhan\kuzhan\spiders" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\PycharmProjects\学习\爬虫\scrapyProject\scrapySelenium\scrapySelenium\LOGGING" />
       <recent name="C:\Users\Administrator\PycharmProjects\学习\爬虫\scrapyProject\scrapySelenium\scrapySelenium" />
       <recent name="C:\Users\Administrator\PycharmProjects\学习\爬虫\scrapyProject\scrapySelenium\scrapySelenium\spiders" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\PycharmProjects\suanfa\爬虫\scrapyProject\酷站\kuzhan\spiders" />
-      <recent name="C:\Users\Administrator\PycharmProjects\suanfa\爬虫\scrapyProject\kuzhan\kuzhan\spiders" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -299,8 +357,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test (2)">
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.011_databaseSave">
+    <configuration name="002_zhihu_hot" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,12 +366,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/崔庆才/2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/崔庆才/2/002_zhihu_hot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,7 +380,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="008_pyquery" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,12 +388,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/re" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/re/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/008_pyquery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,7 +402,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="009_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,12 +410,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/selenium/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/009_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,7 +424,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="010_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,12 +432,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/010_csv.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,7 +446,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wangyiyun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="011_databaseSave" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -396,12 +454,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/selenium/wangyiyun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/学习/爬虫/崔庆才/1/011_databaseSave.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,11 +470,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test (2)" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.util" />
-        <item itemvalue="Python.wangyiyun" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.011_databaseSave" />
+        <item itemvalue="Python.010_csv" />
+        <item itemvalue="Python.009_json" />
+        <item itemvalue="Python.002_zhihu_hot" />
+        <item itemvalue="Python.008_pyquery" />
       </list>
     </recent_temporary>
   </component>
@@ -451,11 +509,25 @@
       <workItem from="1548725480628" duration="8855000" />
       <workItem from="1549959668373" duration="10714000" />
       <workItem from="1550027073160" duration="28976000" />
+      <workItem from="1550114583793" duration="3338000" />
+      <workItem from="1550124527611" duration="26340000" />
+      <workItem from="1550156989717" duration="720000" />
+      <workItem from="1550157728402" duration="1239000" />
+      <workItem from="1550159865205" duration="598000" />
+      <workItem from="1550204177784" duration="599000" />
+      <workItem from="1550234544379" duration="2711000" />
+      <workItem from="1550237480673" duration="265000" />
+      <workItem from="1550237764579" duration="1369000" />
+      <workItem from="1550284680194" duration="3002000" />
+      <workItem from="1550295186218" duration="3390000" />
+      <workItem from="1550302646454" duration="22706000" />
+      <workItem from="1550368261265" duration="15051000" />
+      <workItem from="1550388314219" duration="10284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241845000" />
+    <option name="totallyTimeSpent" value="333457000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,29 +540,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18710022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49931225" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.5006878" side_tool="true" weight="0.18336888" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33586133" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28524947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39904422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32855436" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275488" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286334" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.248104" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3297491" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1778742" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3277512" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Remote Host" order="5" weight="0.32995737" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
@@ -531,328 +603,357 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/0.png" />
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/1.png" />
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+        <state relative-caret-position="215">
+          <caret line="1166" column="23" lean-forward="true" selection-start-line="1166" selection-start-column="23" selection-end-line="1166" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/common/action_chains.py">
+    <entry file="file://$PROJECT_DIR$/学习/多线程/002_threading.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="262">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/common/alert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/力扣/015.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/spidermiddlewares/depth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/js加密/get_ajax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/stack_a.py">
+    <entry file="file://$PROJECT_DIR$/学习/多线程/003_threading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="30" selection-start-line="5" selection-start-column="3" selection-end-line="16" selection-end-column="30" />
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/Node.py">
+    <entry file="file://$PROJECT_DIR$/学习/多线程/006_线程安全问题.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207">
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/算法导论/数据结构/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/LOGGING/5688_log_1548211269.333175.txt" />
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/LOGGING/5688_log_1548210950.4970953.txt" />
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/LOGGING/5688_log_1548211888.1824353.txt" />
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/baidu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/search.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/selenium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/spiders/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1099968596/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/力扣/016.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/力扣/017.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/网易云.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/api.py" />
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/json/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="125" column="39" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1099968596/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="810">
+          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
           <folding>
-            <element signature="e#169#195#0" expanded="true" />
+            <element signature="e#218#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/wangyiyun.txt">
+    <entry file="file://$PROJECT_DIR$/学习/多线程/007_死锁问题.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1242">
-          <caret line="69" column="8" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="8" />
+        <state relative-caret-position="1692">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#118#134#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/settings.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="215">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/scrapySelenium/scrapySelenium/spiders/selenium.py">
+    <entry file="file://$PROJECT_DIR$/学习/多线程/009_线程替代方案.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="933">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#482#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/多线程/010_进程间的通讯.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="e#110#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/多线程/008_可重入锁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#180#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/多线程/004_多线程常用写法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/test1/test1/spiders/Article.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="68" column="70" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wangyi2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-861" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon1/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/urllib.request/get_req.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/mySpider/mySpider/spiders/myspider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapy-splash/jsspider/jsspider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" selection-start-line="29" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/spiders/goods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        <state relative-caret-position="552">
+          <caret line="74" column="49" selection-start-line="74" selection-start-column="49" selection-end-line="74" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/tag.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="487" column="8" selection-start-line="487" selection-start-column="8" selection-end-line="487" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="219" lean-forward="true" selection-start-line="219" selection-end-line="219" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wanyi.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/amazon/amazon/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/wangyiyun/wangyiyun/spiders/wangyi2.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-845" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/song.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="e#101#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/control.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-          <folding>
-            <element signature="e#146#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/selenium/wangyiyun.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/http/request/form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/spiders/wuhaoMoiveSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="25" />
           <folding>
-            <element signature="e#102#117#0" expanded="true" />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../.PyCharm2018.3/system/python_stubs/1099968596/lxml/etree/__init__.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/爬虫网络实战_胡松涛/todayMoive/todayMoive/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/003_test_tornado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#101#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/002_test_flask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/001_tesseract_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/cookies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/005_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="79" column="41" selection-start-line="79" selection-start-column="41" selection-end-line="79" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/004_urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="63" />
+          <folding>
+            <element signature="e#145#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/2/猫眼电影前100.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-890" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/006_XPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="35" column="15" lean-forward="true" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/2/001_maoyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#118#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/pyquery/pyquery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-757">
+          <caret line="462" column="8" selection-start-line="462" selection-start-column="8" selection-end-line="462" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/2/explore.txt" />
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/2/zhihu_explore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/text2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/data2.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/site-packages/parsel/selector.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/007_BeautifulSoup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="48" column="18" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/css.txt">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/008_pyquery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6012">
-          <caret column="25464" selection-start-column="25459" selection-end-column="25464" />
+        <state relative-caret-position="630">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/dianping.txt">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/2/002_zhihu_hot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret column="3141" selection-start-column="3123" selection-end-column="3141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="67" />
+        <state relative-caret-position="468">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <element signature="e#101#110#0" expanded="true" />
+            <element signature="e#135#150#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/scrapyProject/dazhong/dazhong/spiders/test.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/009_json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="88" column="4" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="51" />
-          <folding>
-            <element signature="e#101#116#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="630">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习/爬虫/re/test.py">
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/010_csv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding>
-            <element signature="e#101#110#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="612">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/学习/爬虫/崔庆才/1/011_databaseSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
         </state>
       </provider>
     </entry>

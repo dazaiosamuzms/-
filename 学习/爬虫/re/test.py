@@ -29,9 +29,9 @@ def get_css_svg_url(url, type='css'):
         # su = p.search(content).group(1)
         su = '<d class="uoi135"></d><d class="uoiarx"></d><d class="uoieyw"></d><d class="uoieyw"></d>-<d class="uoi2vg"></d><d class="uoieyw"></d><d class="uoiuoa"></d>1<d class="uoiarx"></d><d class="uoiarx"></d><d class="uoi2vg"></d><d class="uoi2vg"></d> &nbsp; <d class="uoi135"></d><d class="uoiarx"></d><d class="uoieyw"></d><d class="uoieyw"></d>-<d class="uoi2vg"></d><d class="uoieyw"></d><d class="uoiuoa"></d><d class="uoi135"></d><d class="uoiarx"></d><d class="uoiarx"></d>11 <'
         print(su)
-        result = re.findall(, su)
+        # result = re.findall(, su)
         # result.remove('')
-        print(result)
+        # print(result)
 
 if __name__ == '__main__':
     url = 'http://www.dianping.com/shop/2369572'
